@@ -8,8 +8,10 @@ The dataset has 2 classes, 8 classes and 34 classes.
 
 ***2 Classes:***
             Attack, Benign
+            
 ***8 Classes:***
             DDoS, DoS, Mirai, Recon, Spoofing, Benign, Web, BruteForce
+
 ***34 Classes:***
             DDoS-RSTFINFlood, DDoS-PSHACK_Flood, DDoS-SYN_Flood, DDoS-UDP_Flood, DDoS-TCP_Flood, DDoS-ICMP_Flood, DDoS-SynonymousIP_Flood, DDoS-ACK_Fragmentation, DDoS-UDP_Fragmentation, DDoS-ICMP_Fragmentation,DDoS-SlowLoris, DDoS-HTTP_Flood, DoS-UDP_Flood, DoS-SYN_Flood, DoS-TCP_Flood, DoS-HTTP_Flood, Mirai-greeth_flood, Mirai-greip_flood, Mirai-udpplain, Recon-PingSweep, Recon-OSScan, Recon-PortScan, VulnerabilityScan, Recon-HostDiscovery, DNS_Spoofing, MITM-ArpSpoofing, BenignTraffic, BrowserHijacking, Backdoor_Malware, XSS, Uploading_Attack, SqlInjection, CommandInjection, DictionaryBruteForce.
 
