@@ -1,5 +1,5 @@
 # ML_Threat-Detection_in_IOT-Devices
-Using ML and DL models to detect and classify network traffic on IOT devices into 2, 8 and 34 different classes
+Using ML and DL models to detect and classify real life network traffic on IOT devices into 2, 8 and 34 different classes
 
 We have created a machine learning to identify and classify if a traffic in a network is a malicious attack or a benign data packet.
 
