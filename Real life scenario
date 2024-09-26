@@ -1,0 +1,11 @@
+We trained the model using Random forest, Logistic Regression, XG Boost and CNN.
+
+I simulated a attack with Hping3 tool from Kali linux to simulate an attack from an virtual machine onto my main device.
+
+Then we captured the data packets with wireshark and we seperated the attackers data packet.
+
+Then we pre-processed the data sample and converted the sample into CSV with the help of ***TCPDUMP_and_CICFlowMeter-master*** tool.
+
+We created another python script to use this newly created csv and imported the pickle files and h5 files of the models. 
+
+This project works well with real like situations on models like XGBoost, Random forest and CNN  
